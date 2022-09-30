@@ -91,8 +91,10 @@ li:hover {
 
 .content p {
     margin: 20px auto;
-    font-weight: 100;
+    font-weight: 900;
     line-height: 25px;
+    color: black;
+
 }
 
 
@@ -248,7 +250,7 @@ a{
     text-decoration: none;
     color: #585858;
     border-bottom: dotted 1px grey;
-    font-size: 20px;
+    font-size: 13px;
     font-family: 'Poppins',sans-serif;
 }
 i{
